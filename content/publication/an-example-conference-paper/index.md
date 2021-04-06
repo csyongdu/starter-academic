@@ -25,6 +25,7 @@ publication_short: In *ICW*
 url_source: ""
 url_video: ""
 title: An example conference paper
+subtitle: ""
 doi: ""
 featured: true
 tags: []
