@@ -5,7 +5,7 @@ publication_types:
   - "1"
 authors:
   - Sucheng Ren
-  - Yong Du
+  - admin
   - Jianming Lv
   - Guoqiang Han
   - Shengfeng He
