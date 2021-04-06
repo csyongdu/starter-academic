@@ -9,8 +9,8 @@ authors:
   - Jianming Lv
   - Guoqiang Han
   - Shengfeng He
-publication: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-publication_short: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*
+publication_short: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*
 draft: false
 featured: false
 image:
