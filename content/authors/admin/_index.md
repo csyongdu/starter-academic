@@ -1,6 +1,7 @@
 ---
 title: Yong Du
 role: Assistant Professor
+avatar_filename: duyong.png
 bio: ""
 interests:
   - Deep Learning
