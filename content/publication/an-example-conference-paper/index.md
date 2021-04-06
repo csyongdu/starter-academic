@@ -11,9 +11,8 @@ slides: example
 url_pdf: ""
 publication_types:
   - "1"
-authors:
-  - __"Yong Du"__
-  - Robert Ford
+authors: **Yong Du**, Yong Du
+  
 author_notes: []
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
