@@ -29,6 +29,8 @@ subtitle: ""
 doi: ""
 featured: true
 tags: []
+categories:
+  - -----------2020-------------
 projects:
   - example
 image:
