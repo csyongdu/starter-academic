@@ -1,10 +1,10 @@
 ---
 widget: featured
-widget_id: fdafa
+widget_id: RECENT-POSTS
 headless: true
 weight: 80
-title: Featured Publications
-subtitle: ""
+title: "Publications "
+subtitle: (# indicates joint first author, * indicates corresponding author)
 content:
   page_type: publication
   count: 0
