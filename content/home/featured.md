@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: RECENT-POSTS
+widget_id: Publications
 headless: true
 weight: 80
 title: "Publications "
