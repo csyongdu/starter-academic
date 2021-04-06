@@ -12,8 +12,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin<sup>#</sup>
-  - Robert Ford<sup>*</sup>
+  - admin#
+  - Robert Ford*
 author_notes: []
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
