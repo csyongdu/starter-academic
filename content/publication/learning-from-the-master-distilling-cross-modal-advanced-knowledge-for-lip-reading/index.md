@@ -4,8 +4,8 @@ title: "Learning from the Master: Distilling Cross-modal Advanced Knowledge for
 publication_types:
   - "1"
 authors:
-  - Sucheng Ren<sup>#</sup>
-  - <strong>Yong Du<sup>#</sup></strong>
+  - Sucheng Ren
+  - Yong Du
   - Jianming Lv
   - Guoqiang Han
   - Shengfeng He
