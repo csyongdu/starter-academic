@@ -12,7 +12,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - **admin
+  - <em>Yong Du<\em>
   - Robert Ford
 author_notes: []
 publication: In *Wowchemy Conference*
