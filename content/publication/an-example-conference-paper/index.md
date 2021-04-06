@@ -12,8 +12,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - **Yong Du
-  - Robert Ford*
+  - **Yong Du**
+  - Robert Ford
 author_notes: []
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
