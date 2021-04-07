@@ -6,21 +6,24 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida. 
+  eleifend gravida.
 
 url_pdf: "#"
 publication_types:
   - "1"
 authors: 
 - Yong Du
-- R 
-- daf
+- R
+- f
+- f
+- s 
 
 
   
 author_notes: 
-- 
+-
 - Equal Contribution
+- 
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -30,7 +33,7 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading
+title: An example conference paper
 subtitle: ""
 doi: ""
 featured: true
