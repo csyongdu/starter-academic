@@ -30,7 +30,7 @@ url_video: ""
 title: An example conference paper
 subtitle: ""
 doi: ""
-featured: false
+featured: true
 tags: 
 - Source Themes
 categories:
