@@ -21,14 +21,14 @@ publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition 
 summary: 
 url_dataset: ""
 url_project: ""
-publication_short: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021." **"CCF Tier"** 
+publication_short: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*
 url_source: ""
 url_video: ""
 title: "Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading"
 subtitle: ""
 doi: ""
 featured: true
-tags: []
+tags: **CCF**
 categories:
   - -----------2020-------------
 projects:
