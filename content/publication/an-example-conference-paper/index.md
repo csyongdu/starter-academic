@@ -28,16 +28,16 @@ title: "Learning from the Master: Distilling Cross-modal Advanced Knowledge for 
 subtitle: ""
 doi: ""
 featured: true
-tags: "CCF Tier: A"
+tags: "**CCF Tier: A**"
 
 
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2021-04-06T17:22:36.458Z
+date: 2021-03-01T17:22:36.458Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-03-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
