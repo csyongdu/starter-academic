@@ -11,7 +11,10 @@ slides: example
 url_pdf: ""
 publication_types:
   - "1"
-authors: **admin**, da 
+authors: 
+- admin
+- R 
+
 
   
 author_notes: []
