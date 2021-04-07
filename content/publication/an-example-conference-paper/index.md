@@ -14,7 +14,7 @@ authors:
 author_notes: 
 - 
 - Equal Contribution
-publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, Virtual, 2021)*
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*
 summary: 
 url_dataset: ""
 url_project: ""
