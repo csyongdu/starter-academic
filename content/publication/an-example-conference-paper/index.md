@@ -11,9 +11,8 @@ slides: example
 url_pdf: ""
 publication_types:
   - "1"
-authors: 
-- admin{font-weight:bold;}
-- Robert Ford
+authors: **admin**, da 
+
   
 author_notes: []
 publication: In *Wowchemy Conference*
