@@ -1,5 +1,4 @@
 ---
-abstract: .
 url_pdf: "#"
 publication_types:
   - "1"
