@@ -13,8 +13,8 @@ authors:
 
 
   
-author_notes: 
-- "Equal contribution"
+author_notes:
+  - Equal Contribution
 
 publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
