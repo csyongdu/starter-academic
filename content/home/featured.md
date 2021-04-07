@@ -4,7 +4,7 @@ widget_id: Publications
 headless: true
 weight: 80
 title: "Publications "
-subtitle: (# indicates joint first author, * indicates corresponding author)
+subtitle: ""
 content:
   page_type: publication
   count: 0
@@ -17,3 +17,4 @@ content:
 design:
   view: 3
 ---
+发放附阿斯蒂芬阿斯蒂芬啊阿斯蒂芬
