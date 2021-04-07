@@ -13,7 +13,7 @@ authors:
 
 date: "2021-03-01T00:00:00Z"
 
-publication_types: ["1"]
+publication_types: ["2"]
 publication: In *Neurocomputing*
 
 image:
