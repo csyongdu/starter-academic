@@ -13,7 +13,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors: 
-- **Yong Du**
+- Yong Du
 - R 
 
 
