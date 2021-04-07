@@ -29,7 +29,7 @@ subtitle: ""
 doi: ""
 featured: true
 tags: 
-- CCF Tier
+- **CCF Tier: A**
 categories:
   - -----------2020-------------
 projects:
