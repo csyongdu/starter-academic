@@ -5,17 +5,15 @@ url_pdf: "#"
 publication_types:
   - "1"
 authors: 
-- Sucheng Ren
-- Yong Du
-- Jianming Lv
-- Guoqiang Han
-- Shengfeng He
-
-
-  
+ - Sucheng Ren
+ - Yong Du
+ - Jianming Lv
+ - Guoqiang Han
+ - Shengfeng He  
 author_notes:
   - Equal Contribution
-
+  - Equal Contribution+
+ 
 publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
