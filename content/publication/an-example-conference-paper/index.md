@@ -1,36 +1,27 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: 
 
 url_pdf: "#"
 publication_types:
   - "1"
 authors: 
+- Sucheng Ren
 - Yong Du
-- R
-- f
-- f
-- s 
+- Jianming Lv
+- Guoqiang Han
+- Shengfeng He
 
 
   
 author_notes: 
--
+- Equal Contribution
 - Equal Contribution
 - 
 publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: 
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*. **[CCF Tier: A]**
 url_source: ""
 url_video: ""
 title: "Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading"
