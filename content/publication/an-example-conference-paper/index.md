@@ -24,7 +24,7 @@ author_notes:
 -
 - Equal Contribution
 - 
-publication: In *Wowchemy Conference*
+publication: In *IEEE Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
