@@ -29,10 +29,8 @@ subtitle: ""
 doi: ""
 featured: true
 tags: "CCF Tier: A"
-categories:
-  - 2021
-projects:
-  - example
+
+
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
