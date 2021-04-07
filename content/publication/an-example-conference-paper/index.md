@@ -1,45 +1,59 @@
----
-abstract: 
 
-url_pdf: "#"
+---
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
+  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
+  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
+  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
+  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
+  eleifend gravida.
+slides: example
+url_pdf: ""
 publication_types:
   - "1"
 authors: 
- - Sucheng Ren
- - Yong Du
- - Jianming Lv
- - Guoqiang Han
- - Shengfeng He  
-author_notes:
-  - Equal Contribution
-  - Equal Contribution
- 
-publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*
+- **Yong Du**
+- R 
+
+
+  
+author_notes: []
+publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*
+publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading
+title: An example conference paper
 subtitle: ""
 doi: ""
 featured: true
-
+tags: []
 categories:
-  - 2021
-
+  - -----------2020-------------
+projects:
+  - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2021-03-01T17:22:36.458Z
+date: 2021-04-06T17:22:36.458Z
 url_slides: ""
-publishDate: 2021-03-01T00:00:00.000Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
