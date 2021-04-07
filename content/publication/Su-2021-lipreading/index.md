@@ -1,6 +1,10 @@
 ---
 title: Lipreading
-summary: An example of using the in-built project page.
+authors:
+- admin
+- Robert Ford
+
+
 
 date: "2020-03-01T00:00:00Z"
 
