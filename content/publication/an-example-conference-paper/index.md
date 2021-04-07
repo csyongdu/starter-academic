@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: "123123"
 slides: example
 url_pdf: ""
 publication_types:
