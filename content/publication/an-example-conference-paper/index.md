@@ -33,7 +33,7 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading
 subtitle: ""
 doi: ""
 featured: true
