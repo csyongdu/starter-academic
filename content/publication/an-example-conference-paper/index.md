@@ -21,16 +21,14 @@ authors:
 author_notes: 
 - 
 - Equal Contribution
-publication: In *Wowchemy Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*
+summary: 
 url_dataset: ""
 url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading
 subtitle: ""
 doi: ""
 featured: true
