@@ -1,22 +1,18 @@
 ---
-abstract: 
-
+abstract: null
 slides: example
 url_pdf: ""
 publication_types:
   - "1"
-authors: 
-- Sucheng Ren
-- Yong Du
-- Jianming Lv
-- Guoqiang Han
-- Shengfeng He
-
-
-  
+authors:
+  - Sucheng Ren
+  - Yong Du
+  - Jianming Lv
+  - Guoqiang Han
+  - Shengfeng He
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+  - Equal contribution
+  - Equal contribution
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -29,7 +25,7 @@ url_video: ""
 title: An example conference paper
 subtitle: ""
 doi: ""
-featured: true
+featured: false
 tags: []
 categories:
   - -----------2020-------------
