@@ -4,7 +4,7 @@ widget_id: Publications
 headless: true
 weight: 80
 title: "Publications "
-subtitle: ""
+subtitle: "# indicates joint first author, * indicates corresponding author"
 content:
   page_type: publication
   count: 0
@@ -17,18 +17,7 @@ content:
 design:
   view: 3
 ---
-<section id="publication" class="home-section wg-blank   " style="padding: 20px 0 20px 0;" >
-    <div class="container">
-      
 
-<div class="row">
-  
-    <div class="col-12 col-lg-4 section-heading">
-      <h1>Publications</h1>
-      
-    </div>
-    <div class="col-12 col-lg-8">
-      <p><em># indicates joint first author, * indicates corresponding author.</em></p>
 <h3 id="---------------------------------------------------------2021---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash; 2021 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</h3>
 <h3 id="Learning-from-the-Master-Distilling-Cross-modal-Advanced-Knowledge-for-Lip-Reading">
 <a href=""><strong>Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading</strong></a></h3>
