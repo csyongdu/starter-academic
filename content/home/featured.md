@@ -32,16 +32,16 @@ design:
 [PDF] [IF: 2.721] [CCF Tier: B]
 
 <h3 id="TPRDTVN-A-Routing-Algorithm-in-Delay-Tolerant-Vessel-Network-based-on-Long-term-Trajectory-Prediction">
-<a href="https://downloads.hindawi.com/journals/wcmc/2021/6630265.pdf"><strong>TPRDTVN: A Routing Algorithm in Delay Tolerant Vessel Network based on Long-term Trajectory Prediction</strong></a></h3>
+<a href=""><strong>TPRDTVN: A Routing Algorithm in Delay Tolerant Vessel Network based on Long-term Trajectory Prediction</strong></a></h3>
 <p>Chao Liu, Yingbin Li, Ruobing Jiang, <strong>Yong Du<sup>*</sup></strong>, Qian Lu, and Zhongwen Guo<br>
 <strong>Wireless Communications and Mobile Computing (WCMC)</strong>. <br>
-<a href="">[PDF]</a> [IF: 1.819] [CCF Tier: C]
+<a href="https://downloads.hindawi.com/journals/wcmc/2021/6630265.pdf">[PDF]</a> [IF: 1.819] [CCF Tier: C]
 
 <h3 id="Fast-Scene-Labeling-via-Structural-Inference">
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221003428"><strong>Fast Scene Labeling via Structural Inference</strong></a></h3>
+<a href=""><strong>Fast Scene Labeling via Structural Inference</strong></a></h3>
 <p>Huaidong Zhang, Chu Han, Xiaodan Zhang, <strong>Yong Du</strong>, Xuemiao Xu, Guoqiang Han, JingQin, Shengfeng He<br>
 <strong>Neurocomputing</strong>.<br>
-<a href="">[PDF]</a> [IF: 3.917] [CCF Tier: C]
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221003428">[PDF]</a> [IF: 3.917] [CCF Tier: C]
 
 <h3 id="---------------------------------------------------------2020---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash; 2020 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</h3>
 <h3 id="Blind-Image-Denoising-via-Dynamic-Dual-Learning">
