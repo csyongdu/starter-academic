@@ -1,6 +1,9 @@
 ---
 abstract: 
-
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
 url_pdf: "#"
 publication_types:
   - "1"
@@ -31,10 +34,7 @@ featured: true
 tags: "CCF Tier: A"
 
 
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
+
 date: 2021-03-01T17:22:36.458Z
 url_slides: ""
 publishDate: 2021-03-01T00:00:00.000Z
