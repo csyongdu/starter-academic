@@ -53,13 +53,13 @@ design:
 <a href="https://ieeexplore.ieee.org/document/9229239">[PDF]</a> [IF: 9.34] [<strong>CCF Tier: A</strong>]
 
 <h3 id="Blind-Image-Denoising-via-Dynamic-Dual-Learning">
-<a href=""><strong>Blind Image Denoising via Dynamic Dual Learning</strong></a></h3>
+<a href="../publication/denoising-TMM2020"><strong>Blind Image Denoising via Dynamic Dual Learning</strong></a></h3>
 <p><strong>Yong Du</strong>, Guoqiang Han, Yinjie Tan, Chufeng Xiao, Shengfeng He<br>
 <strong>IEEE Transactions on Multimedia (TMM)</strong>. <br>
 <a href="https://ieeexplore.ieee.org/document/9136787">[PDF]</a> [IF: 6.051] [CCF Tier: B]
 
 <h3 id="Invertible-Grayscale-via-Dual-Features-Ensemble">
-<a href="./publication/xu-2020-action"><strong>Invertible Grayscale via Dual Features Ensemble</strong></a></h3>
+<a href="../publication/invertible-access2020"><strong>Invertible Grayscale via Dual Features Ensemble</strong></a></h3>
 <p>Taizhong Ye<sup>#</sup>, <strong>Yong Du<sup>#</sup></strong>, Junjie Deng, Shengfeng He<br>
 <strong>IEEE Access</strong>. <br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091800">[PDF]</a> [IF: 3.8]
@@ -67,7 +67,7 @@ design:
 
 <h3 id="----------------------------------------------------before-2019-----------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; Before 2017 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-</h3>
 <h3 id="Exploiting-Global-Low-rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion">
-<a href="./publication/zhou-2017-delta"><strong>Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion</strong></a></h3>
+<a href="../publication/tensor-TCYB2018"><strong>Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion</strong></a></h3>
 <p><strong>Yong Du</strong>, Guoqiang Han, Yuhui Quan, Zhiwen Yu, Hau-San Wong, C.L.Philip Chen, Jun Zhang<br>
 <strong>IEEE Transactions on Cybernetics (TCYB)</strong>.<br>
 <a href="https://ieeexplore.ieee.org/document/8418828">[PDF]</a> 
