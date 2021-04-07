@@ -25,7 +25,7 @@ url_video: ""
 title: "Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading"
 subtitle: ""
 doi: ""
-featured: false
+featured: true
 tags: "CCF Tier: A"
 image:
   caption: ""
