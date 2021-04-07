@@ -1,5 +1,5 @@
 ---
-title: Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading
+title: "Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading"
 
 authors:
 - Sucheng Ren
