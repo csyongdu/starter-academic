@@ -20,7 +20,7 @@ design:
 <p><em># indicates joint first author, * indicates corresponding author.</em></p>
 <h3 id="---------------------------------------------------------2021---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash; 2021 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</h3>
 <h3 id="Learning-from-the-Master-Distilling-Cross-modal-Advanced-Knowledge-for-Lip-Reading">
-<a href="../publication/Su-2021-lipreading/"><strong>Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading</strong></a></h3>
+<a href="../publication/lipreading-CVPR2021/"><strong>Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading</strong></a></h3>
 <p>Sucheng Ren<sup>#</sup>, <strong>Yong Du<sup>#</sup></strong>, Jianming Lv, Guoqiang Han, Shengfeng He<br>
 <strong>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</strong>, Virtual, 2021.<br>
 [PDF][<strong>CCF Tier: A</strong>]
