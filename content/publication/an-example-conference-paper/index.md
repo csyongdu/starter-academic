@@ -1,4 +1,4 @@
-admin=**Yong Du**
+
 ---
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -13,7 +13,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors: 
-- admin
+- **Yong Du**
 - R 
 
 
