@@ -6,7 +6,7 @@ publication_types:
   - "1"
 authors: 
 - Sucheng Ren
-- admin
+- Yong Du
 - Jianming Lv
 - Guoqiang Han
 - Shengfeng He
@@ -14,7 +14,7 @@ authors:
 
   
 author_notes: 
-- Corresponding author
+- Corresponding Author
 
 publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, 2021*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
