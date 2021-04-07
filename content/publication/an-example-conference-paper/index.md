@@ -21,7 +21,7 @@ authors:
 author_notes: 
 - 
 - Equal Contribution
-publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*
+publication: In *IEEE Conference on Computer Vision and Pattern Recognition*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
