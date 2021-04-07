@@ -12,7 +12,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors: 
-- bold(admin)
+- admin{font-weight:bold;}
 - Robert Ford
   
 author_notes: []
