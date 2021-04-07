@@ -30,13 +30,12 @@ url_video: ""
 title: An example conference paper
 subtitle: ""
 doi: ""
-featured: true
+featured: false
 tags: 
 - Source Themes
 categories:
   - -----------2020-------------
-projects:
-  - example
+
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
