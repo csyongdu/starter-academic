@@ -12,7 +12,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors: 
--  <strong>admin</strong>
+-   **admin**
 - Robert Ford
   
 author_notes: []
