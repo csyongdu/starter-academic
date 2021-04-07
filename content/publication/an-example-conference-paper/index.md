@@ -27,10 +27,7 @@ subtitle: ""
 doi: ""
 featured: true
 tags: "CCF Tier: A"
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+
 
 
 date: 2021-03-01T17:22:36.458Z
