@@ -28,7 +28,8 @@ title: "Learning from the Master: Distilling Cross-modal Advanced Knowledge for 
 subtitle: ""
 doi: ""
 featured: true
-tags: **CCF**
+tags: 
+- CCF Tier
 categories:
   - -----------2020-------------
 projects:
