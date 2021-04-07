@@ -1,6 +1,6 @@
 ---
 title: "Learning from the Master: Distilling Cross-modal Advanced Knowledge for
-  Lip Reading"
+  Lip Reading1"
 publication_types:
   - "1"
 authors:
