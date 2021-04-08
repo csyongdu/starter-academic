@@ -17,13 +17,14 @@ content:
 design:
   view: 3
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" /> 
+
 <p><em># indicates joint first author, * indicates corresponding author.</em></p>
 <h3 id="---------------------------------------------------------2021---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; 2021   &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
 <h3 id="Learning-from-the-Master-Distilling-Cross-modal-Advanced-Knowledge-for-Lip-Reading">
 <a href=""><strong>Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading</strong></a></h3>
 <p>Sucheng Ren<sup>#</sup>, <strong>Yong Du<sup>#</sup></strong>, Jianming Lv, Guoqiang Han, Shengfeng He<br>
 <strong>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</strong>, Virtual, 2021.<br>
-
 
 \[PDF][<strong>CCF Tier: A</strong>]
 
@@ -39,14 +40,12 @@ design:
 <p>Huaidong Zhang, Chu Han, Xiaodan Zhang, <strong>Yong Du</strong>, Xuemiao Xu, Guoqiang Han, JingQin, Shengfeng He<br>
 <strong>Neurocomputing</strong>.<br>
 
-
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221003428">\[PDF]</a> \[IF: 3.917] \[CCF Tier: C]
 
 <h3 id="TPRDTVN-A-Routing-Algorithm-in-Delay-Tolerant-Vessel-Network-based-on-Long-term-Trajectory-Prediction">
 <a href="../publication/routing-WCMC2021"><strong>TPRDTVN: A Routing Algorithm in Delay Tolerant Vessel Network based on Long-term Trajectory Prediction</strong></a></h3>
 <p>Chao Liu, Yingbin Li, Ruobing Jiang, <strong>Yong Du<sup>*</sup></strong>, Qian Lu, and Zhongwen Guo<br>
 <strong>Wireless Communications and Mobile Computing (WCMC)</strong>. <br>
-
 
 <a href="https://downloads.hindawi.com/journals/wcmc/2021/6630265.pdf">\[PDF]</a> \[IF: 1.819] \[CCF Tier: C]
 
@@ -57,14 +56,12 @@ design:
 <p>Bo Wang, Yiliang Chen, Wenxi Liu, Jing Qin, <strong>Yong Du</strong>, Guoqiang Han, Shengfeng He<br>
 <strong>IEEE Transactions on Image Processing (TIP)</strong>.<br>
 
-
 <a href="https://ieeexplore.ieee.org/document/9229239">\[PDF]</a> \[IF: 9.34] [<strong>CCF Tier: A</strong>]
 
 <h3 id="Blind-Image-Denoising-via-Dynamic-Dual-Learning">
 <a href="../publication/denoising-TMM2020"><strong>Blind Image Denoising via Dynamic Dual Learning</strong></a></h3>
 <p><strong>Yong Du</strong>, Guoqiang Han, Yinjie Tan, Chufeng Xiao, Shengfeng He<br>
 <strong>IEEE Transactions on Multimedia (TMM)</strong>. <br>
-
 
 <a href="https://ieeexplore.ieee.org/document/9136787">\[PDF]</a> \[IF: 6.051] \[CCF Tier: B]
 
@@ -73,7 +70,6 @@ design:
 <p>Taizhong Ye<sup>#</sup>, <strong>Yong Du<sup>#</sup></strong>, Junjie Deng, Shengfeng He<br>
 <strong>IEEE Access</strong>. <br>
 
-
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091800">\[PDF]</a> \[IF: 3.8]
 
 <h3 id="----------------------------------------------------before-2019-----------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; Before 2019 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
@@ -81,7 +77,6 @@ design:
 <a href="../publication/tensor-TCYB2018"><strong>Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion</strong></a></h3>
 <p><strong>Yong Du</strong>, Guoqiang Han, Yuhui Quan, Zhiwen Yu, Hau-San Wong, C.L.Philip Chen, Jun Zhang<br>
 <strong>IEEE Transactions on Cybernetics (TCYB)</strong>.<br>
-
 
 <a href="https://ieeexplore.ieee.org/document/8418828">\[PDF]</a> 
 <a href="https://github.com/csyongdu/Exploiting-Global-Low-Rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion">\[Code]</a> \[IF: 11.079] \[CCF Tier: B]</p>
