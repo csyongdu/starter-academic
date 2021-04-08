@@ -17,8 +17,6 @@ content:
 design:
   view: 3
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
-
 <p><em># indicates joint first author, * indicates corresponding author.</em></p>
 <h3 id="---------------------------------------------------------2021---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; 2021   &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
 <h3 id="Learning-from-the-Master-Distilling-Cross-modal-Advanced-Knowledge-for-Lip-Reading">
