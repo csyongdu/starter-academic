@@ -43,7 +43,7 @@ design:
 <strong>Wireless Communications and Mobile Computing (WCMC)</strong>. <br>
 <a href="https://downloads.hindawi.com/journals/wcmc/2021/6630265.pdf">\[PDF]</a> \[IF: 1.819] \[CCF Tier: C]
 
-<h3 id="---------------------------------------------------------2020---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash; 2020 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;</h3>
+<h3 id="---------------------------------------------------------2020---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;2020 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
 
 <h3 id="Real-time-Hierarchical-Supervoxel-Segmentation-via-a-Minimum-Spanning-Tree">
 <a href="../publication/segmentation-TIP2020"><strong>Real-time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree</strong></a></h3>
@@ -63,7 +63,7 @@ design:
 <strong>IEEE Access</strong>. <br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091800">\[PDF]</a> \[IF: 3.8]
 
-<h3 id="----------------------------------------------------before-2019-----------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; Before 2017 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
+<h3 id="----------------------------------------------------before-2019-----------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; Before 2017 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
 <h3 id="Exploiting-Global-Low-rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion">
 <a href="../publication/tensor-TCYB2018"><strong>Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion</strong></a></h3>
 <p><strong>Yong Du</strong>, Guoqiang Han, Yuhui Quan, Zhiwen Yu, Hau-San Wong, C.L.Philip Chen, Jun Zhang<br>
