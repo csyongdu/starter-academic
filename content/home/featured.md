@@ -18,7 +18,7 @@ design:
   view: 3
 ---
 <p><em># indicates joint first author, * indicates corresponding author.</em></p>
-<h3 id="---------------------------------------------------------2021---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;2021 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
+<h3 id="---------------------------------------------------------2021---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;2021 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
 <h3 id="Learning-from-the-Master-Distilling-Cross-modal-Advanced-Knowledge-for-Lip-Reading">
 <a href=""><strong>Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading</strong></a></h3>
 <p>Sucheng Ren<sup>#</sup>, <strong>Yong Du<sup>#</sup></strong>, Jianming Lv, Guoqiang Han, Shengfeng He<br>
@@ -43,7 +43,7 @@ design:
 <strong>Wireless Communications and Mobile Computing (WCMC)</strong>. <br>
 <a href="https://downloads.hindawi.com/journals/wcmc/2021/6630265.pdf">\[PDF]</a> \[IF: 1.819] \[CCF Tier: C]
 
-<h3 id="---------------------------------------------------------2020---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;2020 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
+<h3 id="---------------------------------------------------------2020---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;2020 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
 
 <h3 id="Real-time-Hierarchical-Supervoxel-Segmentation-via-a-Minimum-Spanning-Tree">
 <a href="../publication/segmentation-TIP2020"><strong>Real-time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree</strong></a></h3>
