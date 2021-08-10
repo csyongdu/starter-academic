@@ -19,12 +19,21 @@ design:
 ---
 <p><em># indicates joint first author, * indicates corresponding author.</em></p>
 <h3 id="---------------------------------------------------------2021---------------------------------------------------------">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; 2021   &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</h3>
+
+<h3 id="From-Continuity-to-Editability-Inverting-GANs-with-Consecutive-Images">
+<a href=""><strong>From Continuity to Editability: Inverting GANs with Consecutive Images</strong></a></h3>
+<p>Yangyang Xu, <strong>Yong Du</strong>, Wenpeng Xiao, Xuemiao Xu, Shengfeng He<br>
+<strong>IEEE International Conference on Computer Vision (ICCV)</strong>, 2021.<br>
+
+\[PDF] [<strong>CCF Tier: A</strong>]
+
+
 <h3 id="Mask-ShadowNet-Toward-Shadow-Removal-via-Masked-Adaptive-Instance-Normalization">
 <a href=""><strong>Mask-ShadowNet: Toward Shadow Removal via Masked Adaptive Instance Normalization</strong></a></h3>
 <p>Shengfeng He, Bing Peng, Junyu Dong, <strong>Yong Du<sup>*</sup></strong><br>
 <strong>IEEE Signal Processing Letters (SPL)</strong>.<br>
 
-\[PDF] [IF:3.062] [CCF Tier: C]
+\[PDF] \[IF:3.062] \[CCF Tier: C]
 
 <h3 id="Learning-from-the-Master-Distilling-Cross-modal-Advanced-Knowledge-for-Lip-Reading">
 <a href=""><strong>Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading</strong></a></h3>
